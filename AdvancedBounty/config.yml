@@ -1,3 +1,0 @@
-# The percentage to tax (e.g: 600,000 - 10% = 540,000)
-tax:
-  bounty: 10 # Set tax percentage
