@@ -1,0 +1,8 @@
+---
+default:
+  weatherChange: true
+  createLightning: true
+  lightningFire: false
+  damageFromLightning: false
+  createSnowLayers: true
+...
