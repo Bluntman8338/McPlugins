@@ -1,0 +1,10 @@
+{
+    "Player": {
+        "name": "Player",
+        "display_name": "§l§7{name}",
+        "name_tag": "§7§lPlayer §r§8| §7{name}",
+        "chat_format": "§7§lPlayer §r§8| §7{name} §r§8» §r§f{msg}",
+        "color_code": "§7",
+        "permissions": []
+    }
+}

@@ -1,0 +1,20 @@
+# mysql, json, yml
+provider: json
+mysql:
+  host: "localhost"
+  port: 3306
+  username: "sv1522682"
+  password: "Ux-QlOiJWZrMr4r6Sax2mvKrx"
+  database: "sv1522682"
+DefaultGroup: Player
+Update-Check: true
+InGameDebugging: false
+# Example: /home/GroupSystem/
+# Default: plugin_data/GroupSystem/
+Groups-Path: default
+# Example: /home/GroupSystem/players/
+# Default: plugin_data/GroupSystem/players/
+Players-Path: default
+# Example: /home/GroupSystem/
+# Default: plugin_data/GroupSystem/
+Messages-Path: default

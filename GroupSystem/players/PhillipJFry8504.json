@@ -1,0 +1,11 @@
+{
+    "group": "Secret Stash",
+    "expire": null,
+    "groups": {
+        "Secret Stash": {
+            "group": "Secret Stash",
+            "time": null
+        }
+    },
+    "permissions": []
+}
