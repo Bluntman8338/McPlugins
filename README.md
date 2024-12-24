@@ -1,2 +1,2 @@
 # McPlugins
-Edited plug-ins for my Minecraft server
+Edited Spigot plugins for my Minecraft server
