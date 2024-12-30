@@ -36,39 +36,61 @@ Inventory: true
 
 Slots:
   - slot: 0
-    item: stone_sword
-    count: 1
-    name: StarterSword
-    lore: StarterKit by TheNote
+    item: torch
+    count: 5
+    name: Starter Torches
+    lore: 
 
   - slot: 1
-    item: stone_axe
+    item: stone_sword
     count: 1
-    name: StarterAxe
-    lore: StarterKit by TheNote
+    name: Starter Sword
+    lore: 
 
   - slot: 2
-    item: stone_pickaxe
+    item: stone_axe
     count: 1
-    name: StarterPickaxe
-    lore: StarterKit by TheNote
+    name: Starter Axe
+    lore: 
 
   - slot: 3
-    item: stone_shovel
+    item: stone_pickaxe
     count: 1
-    name: StarterShovel
-    lore: StarterKit by TheNote
+    name: Starter Pickaxe
+    lore: 
 
   - slot: 4
-    item: cooked_porkchop
-    count: 32
-    name: StarterPorkchop
-    lore: StarterKit by TheNote
+    item: stone_shovel
+    count: 1
+    name: Starter Shovel
+    lore: 
 
   - slot: 5
-    item: diamond
-    count: 8
-    name: StarterDiamond
-    lore: StarterKit by TheNote
+    item: cooked_beef
+    count: 32
+    name: Starter Steaks
+    lore: 
 
-
+  - slot: 9
+    item: leather_helmet
+    count: 1
+    name: Starter Helmet
+    lore:
+  
+  - slot: 10
+    item: leather_chestplate
+    count: 1
+    name: Starter Tunic
+    lore: 
+  
+  - slot: 11
+    item: leather_leggings 
+    count: 1
+    name: Starter Pants
+    lore:
+  
+  - slot: 12
+    item: leather_boots
+    count: 1
+    name: Starter Bboots
+    lore: 
