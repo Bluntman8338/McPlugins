@@ -24,6 +24,4 @@ motd:
   # - {TIME}: Show current time based on the 'datetime-format' setting.
   # Use "§" or "&" to color the message.
   messages:
-    - "&a {PREFIX} Welcome to our awesome server {SUFFIX}" # Example: [10:30:45] » Welcome to our awesome server «
-    - "&b Current online: &a{ONLINE_PLAYERS}/{MAX_PLAYERS}" # Example: [10:30:45] Current online: 50/100
-    - "&b {PREFIX} Thanks for joining! Have fun! {SUFFIX}" # Example: [10:30:45] » Thanks for joining! Have fun! «
+    - "Online: {ONLINE_PLAYERS}/{MAX_PLAYERS}"
