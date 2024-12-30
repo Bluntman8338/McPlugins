@@ -20,7 +20,7 @@ titles:
   period: 5
 
   # A simple title that will be displayed for scoreboard.
-  title: "§l§qThe §qBluntCave"
+  title: "§lWanted: Snoogans Edition"
 
   # Changing titles. Add as many as you desire.
   lines:
@@ -52,10 +52,10 @@ titles:
 # in 'scoreboards' key below then set 'multi-world.active' along
 # with 'multi-world.use-default' keys to true in config.yml.
 default-board:
+- "Team: {groupsystem.group} "
 - "Health: {scorehud.health}/{scorehud.max_health}"
-- "C.O.H.: ${bedrockeconomy.balance}"
 - "Bank: ${bankui.money}"
-- ""
+
 - "Online: {scorehud.online} / {scorehud.max_online}" 
 - "Ping: {scorehud.ping}"
 - "X:{scorehud.x} Y:{scorehud.y} Z:{scorehud.z}"
