@@ -55,33 +55,42 @@ Reward:
   # weekly-normal-content: []
   monday-commands:
     - "give {PLAYER} apple 24"
-    - "give {PLAYER} iron_sword 1"
+    - "give {PLAYER} stone_sword 1"
+    - "addbalance {PLAYER} 100" 
   tuesday-commands:
     - "give {PLAYER} apple 24"
-    - "give {PLAYER} iron_pickaxe 1"
+    - "give {PLAYER} stone_axe 1"
+    - "addbalance {PLAYER} 100" 
   wednesday-commands:
     - "give {PLAYER} apple 24"
-    - "give {PLAYER} diamond_sword 1"
+    - "give {PLAYER} stone_pickaxe 1"
+    - "addbalance {PLAYER} 100" 
   thursday-commands:
     - "give {PLAYER} apple 24"
-    - "give {PLAYER} stone 12"
+    - "give {PLAYER} coal 12"
+    - "addbalance {PLAYER} 100" 
   friday-commands:
     - "give {PLAYER} apple 24"
     - "give {PLAYER} wool 13"
+    - "addbalance {PLAYER} 100" 
   saturday-commands:
     - "give {PLAYER} apple 24"
     - "give {PLAYER} iron_block 1"
+    - "addbalance {PLAYER} 100"
   sunday-commands:
     - "give {PLAYER} apple 24"
     - "give {PLAYER} book 1"
+    - "addbalance {PLAYER} 100" 
 
   # (General rewards)
   weekly-commands:
     - "give {PLAYER} golden_apple 4"
     - "give {PLAYER} stone 12"
+    - "addbalance {PLAYER} 500" 
   monthly-commands:
     - "give {PLAYER} apple 24"
     - "give {PLAYER} diamond 33"
+    - "addbalance {PLAYER} 1000" 
   # This for rewards with custom items.
   # It only works if the (custom-inventory) option is disabled.
   # Follow this example for custom items:
@@ -170,3 +179,4 @@ Days:
   friday: Friday
   saturday: Saturday
   sunday: Sunday
+  
